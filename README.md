@@ -33,13 +33,13 @@ To install rasbian, follow the offical Raspberry Pi guide found on the [Rasbian]
 ### 3d Print ###
 
 STL File:  
-![stlFile](/3dprint/potback.png)  
+![stlFile](/3dPrint/potback.png)  
 
 Final Print:  
-![finalPrint](/3dprint/finalPrint.jpg)  
+![finalPrint](/3dPrint/finalPrint.jpg)  
 
 Assembled 3D Print with Pot:  
-![assembled](/3dprint/assembled.jpg)
+![assembled](/3dPrint/assembled.jpg)
 
 ### Project Schematic ###
 
