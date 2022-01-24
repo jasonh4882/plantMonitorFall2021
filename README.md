@@ -52,6 +52,8 @@ Assembled 3D Print with Pot:
 ### Functional Demo ###
 
 
+https://user-images.githubusercontent.com/97221507/150884384-06d835c8-bd7c-49e0-bc05-86592953ab90.mp4
+
 
 ## Roadmap
 
