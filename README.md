@@ -52,6 +52,8 @@ Assembled 3D Print with Pot:
 ### Functional Demo ###
 
 
+https://user-images.githubusercontent.com/97221507/150884384-06d835c8-bd7c-49e0-bc05-86592953ab90.mp4
+
 
 ## Roadmap ##
 
@@ -64,3 +66,4 @@ The project was done jointly between Jason Hampshire and Caleb Kirby
 ## Project Status ##
 
 This repository is **Discontinued** and will not see any further work. Work will be continued by Caleb Kirby privately.
+
